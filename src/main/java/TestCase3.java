@@ -4,5 +4,7 @@ public class TestCase3 {
     @Test
     public void Test3(){
         System.out.println("Put your code here");
+        System.out.println("Please delete this lines");
+
     }
 }
